@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\WoodStorageShed\WoodStorageShed\obj\Debug\WoodStorageShed.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WoodStorageShed\WoodStorageShed\obj\Debug\WoodStorageShed.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WoodStorageShed\WoodStorageShed\bin\Debug\WoodStorageShed.dll
+C:\Users\PC\source\repos\WoodStorageShed\WoodStorageShed\bin\Debug\WoodStorageShed.pdb
+C:\Users\PC\source\repos\WoodStorageShed\WoodStorageShed\obj\Debug\WoodStorageShed.dll
+C:\Users\PC\source\repos\WoodStorageShed\WoodStorageShed\obj\Debug\WoodStorageShed.pdb
