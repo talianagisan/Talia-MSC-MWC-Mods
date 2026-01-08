@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hayosiko4x4-V2", "Hayosiko4x4-V2.csproj", "{B40C5CA5-E62D-4445-80C3-954FC41FBE1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40C5CA5-E62D-4445-80C3-954FC41FBE1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40C5CA5-E62D-4445-80C3-954FC41FBE1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40C5CA5-E62D-4445-80C3-954FC41FBE1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40C5CA5-E62D-4445-80C3-954FC41FBE1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBAFB03E-7FE3-4527-BC4F-5ADC726B55BF}
+	EndGlobalSection
+EndGlobal

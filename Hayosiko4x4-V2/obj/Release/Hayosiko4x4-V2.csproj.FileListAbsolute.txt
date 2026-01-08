@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Hayosiko4x4-V2\obj\Release\Hayosiko4x4-V2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Hayosiko4x4-V2\obj\Release\Hayosiko4x4-V2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Hayosiko4x4-V2\bin\Release\Hayosiko4x4.dll
+C:\Users\PC\source\repos\Hayosiko4x4-V2\obj\Release\Hayosiko4x4.dll
+C:\Users\PC\source\repos\Hayosiko4x4-V2\bin\Release\MSCLoader.dll
+C:\Users\PC\source\repos\Hayosiko4x4-V2\bin\Release\MSCLoader.Preloader.dll
+C:\Users\PC\source\repos\Hayosiko4x4-V2\bin\Release\NAudio.dll
+C:\Users\PC\source\repos\Hayosiko4x4-V2\bin\Release\NVorbis.dll
+C:\Users\PC\source\repos\Hayosiko4x4-V2\bin\Release\Ionic.Zip.dll
+C:\Users\PC\source\repos\Hayosiko4x4-V2\bin\Release\INIFileParser.dll
+C:\Users\PC\source\repos\Hayosiko4x4-V2\bin\Release\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\Hayosiko4x4-V2\bin\Release\NAudio.Flac.dll
+C:\Users\PC\source\repos\Hayosiko4x4-V2\bin\Release\0Harmony.dll
+C:\Users\PC\source\repos\Hayosiko4x4-V2\bin\Release\System.Runtime.Serialization.dll
+C:\Users\PC\source\repos\Hayosiko4x4-V2\bin\Release\MSCLoader.xml
+C:\Users\PC\source\repos\Hayosiko4x4-V2\obj\Release\Hayosiko4x4-V2.csproj.CopyComplete

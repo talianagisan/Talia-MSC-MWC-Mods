@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\HayosikoTweaks\bin\Debug\HayosikoTweaks.dll
+C:\Users\PC\source\repos\HayosikoTweaks\bin\Debug\HayosikoTweaks.pdb
+C:\Users\PC\source\repos\HayosikoTweaks\obj\Debug\HayosikoTweaks.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\HayosikoTweaks\obj\Debug\HayosikoTweaks.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\HayosikoTweaks\obj\Debug\HayosikoTweaks.dll
+C:\Users\PC\source\repos\HayosikoTweaks\obj\Debug\HayosikoTweaks.pdb

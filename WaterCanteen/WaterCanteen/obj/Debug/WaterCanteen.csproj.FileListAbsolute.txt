@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\WaterCanteen\WaterCanteen\bin\Debug\WaterCanteen.dll
+C:\Users\PC\source\repos\WaterCanteen\WaterCanteen\bin\Debug\WaterCanteen.pdb
+C:\Users\PC\source\repos\WaterCanteen\WaterCanteen\obj\Debug\WaterCanteen.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WaterCanteen\WaterCanteen\obj\Debug\WaterCanteen.dll
+C:\Users\PC\source\repos\WaterCanteen\WaterCanteen\obj\Debug\WaterCanteen.pdb
+C:\Users\PC\source\repos\WaterCanteen\WaterCanteen\obj\Debug\WaterCanteen.csproj.AssemblyReference.cache
