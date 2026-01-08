@@ -184,6 +184,14 @@ namespace Kekmet602T_MWC
             KekmetRange = GameObject.Find("KEKMET(350-400psi)").transform.Find("LOD/Dashboard/Range").gameObject.GetPlayMaker("Use").FsmVariables.GetFsmBool("Range"); // Figures out what range tractor is in
 
 
+            RangeLever = GameObject.Instantiate(ab.LoadAsset<GameObject>("HiTracLever.prefab")); // Instantiate the hi-trac lever
+
+            AirFilter = GameObject.Instantiate(ab.LoadAsset<GameObject>("AirFilter.prefab")); // Istantiate air filter
+            AirFilter.transform.SetParent(Kekmet.transform, false); // parents to tractor
+            AirFilter.transform.localPosition = new Vector3(-0.07f, 1.19f, 0.5f);
+            AirFilter.transform.localEulerAngles = new Vector3(3.5f, 0, 0); // sets position
+
+
             FL_Wheel_OBJ = GameObject.Find("KEKMET(350-400psi)/FrontAxle/wheelFL"); //gets the game object of the front wheels
             FR_Wheel_OBJ = GameObject.Find("KEKMET(350-400psi)/FrontAxle/wheelFR");
 
@@ -194,18 +202,7 @@ namespace Kekmet602T_MWC
             RR_Wheel_OBJ = GameObject.Find("KEKMET(350-400psi)/wheelRR");
 
             RL_Wheel = RL_Wheel_OBJ.GetComponent<Wheel>();// Gets the actual physical wheel component of the Rear wheels
-            RR_Wheel = RR_Wheel_OBJ.GetComponent<Wheel>(); 
-
-            RangeLever = GameObject.Instantiate(ab.LoadAsset<GameObject>("HiTracLever.prefab")); // Instantiate the hi-trac lever
-
-            AirFilter = GameObject.Instantiate(ab.LoadAsset<GameObject>("AirFilter.prefab")); // Istantiate air filter
-            AirFilter.transform.SetParent(Kekmet.transform, false); // parents to tractor
-            AirFilter.transform.localPosition = new Vector3(-0.07f, 1.19f, 0.5f);
-            AirFilter.transform.localEulerAngles = new Vector3(3.5f, 0, 0); // sets position
-
-            
-            
-
+            RR_Wheel = RR_Wheel_OBJ.GetComponent<Wheel>();
 
 
             Tire = GameObject.Instantiate(ab.LoadAsset<GameObject>("FrontTireNew.prefab")); // instaniate new Wheel
