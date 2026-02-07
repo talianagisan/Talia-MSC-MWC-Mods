@@ -1,0 +1,4 @@
+C:\Users\PC\source\repos\Kekmet602T-MWC\Kekmet602T-MWC\bin\Release\Kekmet602T-MWC.dll
+C:\Users\PC\source\repos\Kekmet602T-MWC\Kekmet602T-MWC\obj\Release\Kekmet602T-MWC.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Kekmet602T-MWC\Kekmet602T-MWC\obj\Release\Kekmet602T-MWC.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Kekmet602T-MWC\Kekmet602T-MWC\obj\Release\Kekmet602T-MWC.dll

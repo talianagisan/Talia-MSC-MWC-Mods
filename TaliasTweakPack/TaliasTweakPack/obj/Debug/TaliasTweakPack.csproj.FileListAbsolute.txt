@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\TaliasTweakPack\TaliasTweakPack\obj\Debug\TaliasTweakPack.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\TaliasTweakPack\TaliasTweakPack\obj\Debug\TaliasTweakPack.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TaliasTweakPack\TaliasTweakPack\bin\Debug\TaliasTweakPack.dll
+C:\Users\PC\source\repos\TaliasTweakPack\TaliasTweakPack\bin\Debug\TaliasTweakPack.pdb
+C:\Users\PC\source\repos\TaliasTweakPack\TaliasTweakPack\obj\Debug\TaliasTweakPack.dll
+C:\Users\PC\source\repos\TaliasTweakPack\TaliasTweakPack\obj\Debug\TaliasTweakPack.pdb

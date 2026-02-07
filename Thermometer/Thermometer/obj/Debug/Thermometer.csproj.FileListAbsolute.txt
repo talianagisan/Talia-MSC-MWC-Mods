@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\Thermometer\Thermometer\obj\Debug\Thermometer.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Thermometer\Thermometer\obj\Debug\Thermometer.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Thermometer\Thermometer\bin\Debug\Thermometer.dll
+C:\Users\PC\source\repos\Thermometer\Thermometer\bin\Debug\Thermometer.pdb
+C:\Users\PC\source\repos\Thermometer\Thermometer\obj\Debug\Thermometer.dll
+C:\Users\PC\source\repos\Thermometer\Thermometer\obj\Debug\Thermometer.pdb

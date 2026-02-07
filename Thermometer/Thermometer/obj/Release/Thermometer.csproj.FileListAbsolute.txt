@@ -1,0 +1,4 @@
+C:\Users\PC\source\repos\Thermometer\Thermometer\bin\Release\Thermometer.dll
+C:\Users\PC\source\repos\Thermometer\Thermometer\obj\Release\Thermometer.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Thermometer\Thermometer\obj\Release\Thermometer.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Thermometer\Thermometer\obj\Release\Thermometer.dll

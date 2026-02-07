@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\TSW1000\TSW1000\obj\Debug\TSW1000.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\TSW1000\TSW1000\obj\Debug\TSW1000.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TSW1000\TSW1000\bin\Debug\TSW1000.dll
+C:\Users\PC\source\repos\TSW1000\TSW1000\bin\Debug\TSW1000.pdb
+C:\Users\PC\source\repos\TSW1000\TSW1000\obj\Debug\TSW1000.dll
+C:\Users\PC\source\repos\TSW1000\TSW1000\obj\Debug\TSW1000.pdb
+C:\Users\PC\source\repos\TSW1000\TSW1000\bin\Debug\ModsShop.xml
+C:\Users\PC\source\repos\TSW1000\TSW1000\obj\Debug\TSW1000.csproj.CopyComplete
+C:\Users\PC\source\repos\TSW1000\TSW1000\bin\Debug\ModsShop.dll

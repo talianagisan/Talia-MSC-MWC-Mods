@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ModsShop</name>
+    </assembly>
+    <members>
+        <member name="M:ModsShop.ModsShop.GetShopReference">
+            <summary>
+            Get valid reference to ModsShop
+            </summary>
+            <returns>Shop</returns>
+        </member>
+        <member name="M:ModsShop.Shop.CreateShopItem(MSCLoader.Mod,System.String,System.String,System.Single,System.Boolean,System.Action{ModsShop.Checkout},UnityEngine.GameObject,ModsShop.SpawnMethod)">
+            <summary>
+            Create a shop item
+            </summary>
+            <param name="mod">Your mod</param>
+            <param name="itemID">Unique item ID</param>
+            <param name="itemName">Displayed name of the item</param>
+            <param name="itemPrice">Price of the item</param>
+            <param name="multiplePurchases">Allow multiple purchases of this item</param>
+            <param name="purchashedAction">Function to execute after item is purchashed</param>
+            <param name="itemObject">GameObject to spawn after item is purchashed</param>
+            <param name="spawnMehod">How to spawn itemObject</param>
+            <returns>ItemDetails</returns>
+        </member>
+        <member name="M:ModsShop.Shop.CreateShopItem(MSCLoader.Mod,System.String,System.String,System.Single,System.Boolean,System.Action{ModsShop.Checkout},UnityEngine.GameObject,ModsShop.SpawnMethod,System.Boolean)">
+            <summary>
+            Create a shop item
+            </summary>
+            <param name="mod">Your mod</param>
+            <param name="itemID">Unique item ID</param>
+            <param name="itemName">Displayed name of the item</param>
+            <param name="itemPrice">Price of the item</param>
+            <param name="multiplePurchases">Allow multiple purchases of this item</param>
+            <param name="purchashedAction">Function to execute after item is purchashed</param>
+            <param name="itemObject">GameObject to spawn after item is purchashed</param>
+            <param name="spawnMehod">How to spawn itemObject</param>
+            <param name="excludeFromShoppingBag">Exclude this item from being added to the shopping bag</param>
+            <returns>ItemDetails</returns>
+        </member>
+        <member name="M:ModsShop.Shop.AddShopItem(MSCLoader.Mod,System.String,System.String,System.Single,System.Boolean,System.Action{ModsShop.Checkout},UnityEngine.GameObject,ModsShop.SpawnMethod,System.Boolean)">
+            <summary>
+            Create a shop item
+            </summary>
+            <param name="mod">Your mod</param>
+            <param name="itemID">Unique item ID</param>
+            <param name="itemName">Displayed name of the item</param>
+            <param name="itemPrice">Price of the item</param>
+            <param name="multiplePurchases">Allow multiple purchases of this item</param>
+            <param name="purchashedAction">Function to execute after item is purchashed</param>
+            <param name="itemObject">GameObject to spawn after item is purchashed</param>
+            <param name="spawnMehod">How to spawn itemObject</param>
+            <param name="excludeFromShoppingBag">Exclude this item from the shopping bag</param>
+            <returns>ItemDetails</returns>
+        </member>
+        <member name="M:ModsShop.Shop.AddDisplayItem(ModsShop.ItemDetails,UnityEngine.GameObject,ModsShop.SpawnMethod)">
+            <summary>
+            Add display item on shelf  
+            </summary>
+            <param name="itemDetails">ItemDetails of item that was created using CreateShopItem()</param>
+            <param name="displayObject">display GameObject</param>
+            <param name="displayObjectSpawnMethod">Spawn Method of displayObject</param>
+        </member>
+        <member name="M:ModsShop.Shop.AddDisplayItem(ModsShop.ItemDetails,UnityEngine.GameObject,ModsShop.SpawnMethod,UnityEngine.Vector3,System.Int32)">
+            <summary>
+            Add display item on shelf 
+            </summary>
+            <param name="itemDetails">ItemDetails of item that was created using CreateShopItem()</param>
+            <param name="displayObject">display GameObject</param>
+            <param name="displayObjectSpawnMethod">Spawn Method of displayObject</param>
+            <param name="rotation">tweak object rotation (default Vector3.zero)</param>
+            <param name="gap">Gap behind last object (default 2)</param>
+        </member>
+        <member name="M:ModsShop.Shop.AddCustomShelf(UnityEngine.GameObject)">
+            <summary>
+            Add custom shelf from prefab
+            </summary>
+            <param name="customShelfPrefab">Custom prefab (non-instantiated) from template</param>
+        </member>
+    </members>
+</doc>
