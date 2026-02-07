@@ -1,6 +1,0 @@
-C:\Users\PC\source\repos\Kekmet602T-MWC\Kekmet602T-MWC\obj\Debug\Kekmet602T-MWC.csproj.AssemblyReference.cache
-C:\Users\PC\source\repos\Kekmet602T-MWC\Kekmet602T-MWC\obj\Debug\Kekmet602T-MWC.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\Kekmet602T-MWC\Kekmet602T-MWC\bin\Debug\Kekmet602T-MWC.dll
-C:\Users\PC\source\repos\Kekmet602T-MWC\Kekmet602T-MWC\bin\Debug\Kekmet602T-MWC.pdb
-C:\Users\PC\source\repos\Kekmet602T-MWC\Kekmet602T-MWC\obj\Debug\Kekmet602T-MWC.dll
-C:\Users\PC\source\repos\Kekmet602T-MWC\Kekmet602T-MWC\obj\Debug\Kekmet602T-MWC.pdb
